@@ -20,7 +20,7 @@ Corresponding Nexty.dev source code branch for testing: [extension-request-demo]
 ### 2. Clone and Install
 
 ```bash
-git clone https://github.com/WeNextDev/nexty-extension-request-demo.git
+git clone git@github.com:WeNextDev/nexty-extension-request-demo.git
 cd nexty-extension-request-demo
 
 git checkout extension-request-demo
