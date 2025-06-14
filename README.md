@@ -21,7 +21,7 @@ Corresponding Nexty.dev source code branch for testing: [extension-request-demo]
 
 ```bash
 # Plasmo
-git clone git@github.com:WeNextDev/nexty-extension-request-demo.git
+git clone https://github.com/WeNextDev/nexty-extension-request-demo.git
 cd nexty-extension-request-demo
 pnpm install
 ```
